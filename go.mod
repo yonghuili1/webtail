@@ -1,4 +1,4 @@
-module github.com/LeKovr/webtail
+module github.com/yonghuili1/webtail
 
 go 1.19
 
